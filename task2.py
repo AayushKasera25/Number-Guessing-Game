@@ -1,4 +1,4 @@
-# # Numbwr guessing game
+#Number Guess Game
 
 import random
 
