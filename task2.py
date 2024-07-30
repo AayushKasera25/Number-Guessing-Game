@@ -1,20 +1,4 @@
-# # Numbwr guessing game between user and computer
-
-# import random
-# number = random.randint(1,50) 
-# guess = int(input("Guess a number between 1 and 50: "))
-
-# while guess != number:
-#   if guess < number:
-#     print("your guess number is too low.")
-#   elif guess > number:
-#     print("your guess number is too high.")
-#     count = count + 1;
-  
-  
-#   guess = int(input("Guess agian:"))
-
-# print("Great!! you guessed it right.")
+# # Numbwr guessing game
 
 import random
 
